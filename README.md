@@ -6,14 +6,18 @@
 <p>Welcome to my page! </br> I'm Peter, beginner python developer from <img src="https://cdn-icons-png.flaticon.com/512/4628/4628645.png" width="13"/> <b>Volgogra, Russia</b>. </p>
 <h3>Things I code with</h3>
 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Python](https://img.shields.io/badge/-Python-white?logo=Python)
+![MySQL](https://img.shields.io/badge/-MySQL-white?logo=mysql)
+![Git](https://img.shields.io/badge/-Git-white?logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-white?logo=github&logoColor=black)
 
 <h3>Feel free to connect with me here:</h3>
 
-[![Yandex Badge](https://img.shields.io/badge/-pyo7578@yandex.ru-c14438?style=flat-square&logo=YandexCloud&logoColor=white&link=mailto:pyo7578@yandex.ru)](mailto:pyo7578@yandex.ru)
+[![Yandex](https://img.shields.io/badge/Yandex-pyo7578@yandex.ru-ffcc00?logo=YandexCloud&logoColor=white&link=mailto:pyo7578@yandex.ru)](mailto:pyo7578@yandex.ru)
+[![Telegram](https://img.shields.io/badge/Telegram-@TaJIucMaH4eg-blue?logo=telegram)](https://t.me/TaJIucMaH4eg)
+[![GitHub](https://img.shields.io/badge/GitHub-VelichkinPetr-black?logo=GitHub&logoColor=white&link=mailto:pyo7578@yandex.ru)](https://github.com/VelichkinPetr)
+
+
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=VelichkinPetr&count_private=true&show_icons=true&include_all_commits=true)
 
