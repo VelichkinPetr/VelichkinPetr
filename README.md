@@ -18,7 +18,7 @@
 
 
 ### 📫 How to reach me:
-[![Yandex](https://img.shields.io/badge/GMail-pyo7578@gmail.com-ffcc00?logo=GMail&logoColor=white&link=mailto:pyo7578@gmail.com)](mailto:pyo7578@gmail.com)
+[![Gmail](https://img.shields.io/badge/GMail-pyo7578@gmail.com-white?logo=GMail&logoColor=white&link=mailto:pyo7578@gmail.com)](mailto:pyo7578@gmail.com)
 [![Yandex](https://img.shields.io/badge/Yandex-pyo7578@yandex.ru-ffcc00?logo=YandexCloud&logoColor=white&link=mailto:pyo7578@yandex.ru)](mailto:pyo7578@yandex.ru)
 [![Telegram](https://img.shields.io/badge/Telegram-@TaJIucMaH4eg-blue?logo=telegram)](https://t.me/TaJIucMaH4eg)
 [![GitHub](https://img.shields.io/badge/GitHub-VelichkinPetr-black?logo=GitHub&logoColor=white&link=mailto:pyo7578@yandex.ru)](https://github.com/VelichkinPetr)
