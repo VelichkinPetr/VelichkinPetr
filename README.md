@@ -39,6 +39,10 @@
   <img src="https://www.codewars.com/users/VelichkinPetr/badges/large" alt="Codewars Stats">
 </p>
 
+#### LeetCode
 
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/velichkinpetr?theme=light&font=JetBrains+Mono" alt="LeetCode Stats" />
+</p>
 
 
