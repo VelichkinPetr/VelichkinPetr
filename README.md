@@ -6,7 +6,8 @@
 <p align="center">Welcome to my page! </br> I'm Peter, beginner python developer from <img src="https://cdn-icons-png.flaticon.com/512/4628/4628645.png" width="13"/> <b>Volgograd, Russia</b>. </p>
 
 ## 🛠️ Skills & Tools
-
+<div align="center">
+  
 | Category | Technologies | Primary Purpose |
 |----------|--------------|-----------------|
 | **🌐 Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | Web interfaces, client-side logic |
@@ -16,6 +17,7 @@
 | **🖥️ Desktop** | ![CustomTkinter](https://img.shields.io/badge/CustomTkinter-FF6B6B?style=flat&logo=python&logoColor=white) ![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-FFD43B?style=flat&logo=robotframework&logoColor=black) | GUI applications, automation |
 | **🚀 Tools** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-21D789?style=flat&logo=pycharm&logoColor=white) | Deployment, development, debugging |
 
+</div>
 
 ### 🚀 Pet Projects
 - <img src="https://github.com/VelichkinPetr/TicTacToe/blob/main/ico.png" alt="TicTacToe" width="20" height="20"> [TicTacToe](https://github.com/VelichkinPetr/TicTacToe) — a simple logic game with the possibility of playing with a friend and three levels of difficulty of the computer (bot), statistics, history of moves, changing the theme of the application and clearing the game cache. It was created for learning and practicing working with the UI.
