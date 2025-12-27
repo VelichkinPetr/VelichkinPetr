@@ -19,12 +19,12 @@
 
 </div>
 
-### 🚀 Pet Projects
+## 🚀 Pet Projects
 - <img src="https://github.com/VelichkinPetr/TicTacToe/blob/main/ico.png" alt="TicTacToe" width="20" height="20"> [TicTacToe](https://github.com/VelichkinPetr/TicTacToe) — a simple logic game with the possibility of playing with a friend and three levels of difficulty of the computer (bot), statistics, history of moves, changing the theme of the application and clearing the game cache. It was created for learning and practicing working with the UI.
 - <img src="https://github.com/VelichkinPetr/storage_recipes/blob/main/storage.png" alt="Recipe Book" width="20" height="20"> [Recipe Book](https://github.com/VelichkinPetr/storage_recipes) — a console application for storing recipes with the ability to create, add, search, sort and delete catalogs and recipes. It was created for learning and practicing working with the architecture of creating applications and language functionality.
 
 
-### 📫 How to reach me:
+## 📫 How to reach me:
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/GMail-pyo7578@gmail.com-red?logo=GMail&logoColor=white&link=mailto:pyo7578@gmail.com)](mailto:pyo7578@gmail.com)
@@ -35,7 +35,7 @@
 </div>
 
 
-### 📊 Stats
+## 📊 Stats
 
 #### GitHub
 
